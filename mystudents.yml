@@ -1,0 +1,27 @@
+---
+- mystudents:
+    - name: anil
+      phone: 8989898989
+      address: 
+          doorno: 45
+          streetno: 2
+          pin: 500072
+
+    - name: sunil
+      phone: 8989898989
+      address: 
+       doorno: 46
+       streetno: 3
+       pin: 500072
+
+    - name: vinel
+      phone: 8989898989
+      address: 
+         doorno: 47
+         streetno: 3
+         pin: 500072
+
+  
+
+
+
