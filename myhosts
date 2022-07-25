@@ -1,20 +1,11 @@
-[mywebserver]
 172.31.26.119
 172.31.43.115
 
-[applicationservers]
-172.31.18.8
-172.31.24.21
-
-[DBservers]
-172.31.18.82
-172.31.24.211
 
 
 
-[mywebserver:vars]
-mywebserverpackonubuntu= apache2
-mywebserverpackonredhat= httpd
+
+
 
 
 
