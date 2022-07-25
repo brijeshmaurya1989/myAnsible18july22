@@ -12,7 +12,9 @@
 
 
 
-
+[mywebservers:vars]
+mywebserverpackonubuntu= apache222222
+mywebserverpackonredhat= httpd
 
 
 
